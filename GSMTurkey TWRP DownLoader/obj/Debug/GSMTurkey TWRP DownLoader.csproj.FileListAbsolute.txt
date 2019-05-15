@@ -1,0 +1,71 @@
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\GSMTurkey TWRP DownLoader.exe.config
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\GSMTurkey TWRP DownLoader.exe
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\GSMTurkey TWRP DownLoader.pdb
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\LollipoUi.dll
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey_TWRP_DownLoader.Form1.resources
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey_TWRP_DownLoader.Properties.Resources.resources
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.csproj.GenerateResource.Cache
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.exe
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.pdb
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.csprojAssemblyReference.cache
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.csproj.CoreCompileInputs.cache
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.csproj.CopyComplete
+C:\Users\Barış MIZRAKLI\Desktop\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\DevComponents.DotNetBar.Layout.dll
+F:\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\GSMTurkey TWRP DownLoader.exe.config
+F:\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\GSMTurkey TWRP DownLoader.exe
+F:\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\GSMTurkey TWRP DownLoader.pdb
+F:\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+F:\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+F:\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+F:\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+F:\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+F:\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\DevComponents.DotNetBar2.xml
+F:\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.csprojAssemblyReference.cache
+F:\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey_TWRP_DownLoader.Form1.resources
+F:\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey_TWRP_DownLoader.Properties.Resources.resources
+F:\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.csproj.GenerateResource.cache
+F:\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.csproj.CoreCompileInputs.cache
+F:\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.csproj.CopyComplete
+F:\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.exe
+F:\Visual Studio\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.pdb
+C:\Users\ShapTick\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\GSMTurkey TWRP DownLoader.exe.config
+C:\Users\ShapTick\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\GSMTurkey TWRP DownLoader.exe
+C:\Users\ShapTick\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\GSMTurkey TWRP DownLoader.pdb
+C:\Users\ShapTick\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ShapTick\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\LollipoUi.dll
+C:\Users\ShapTick\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\ShapTick\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\ShapTick\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\ShapTick\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\ShapTick\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\ShapTick\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\ShapTick\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.csprojAssemblyReference.cache
+C:\Users\ShapTick\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey_TWRP_DownLoader.Form1.resources
+C:\Users\ShapTick\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey_TWRP_DownLoader.Properties.Resources.resources
+C:\Users\ShapTick\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.csproj.GenerateResource.cache
+C:\Users\ShapTick\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.csproj.CoreCompileInputs.cache
+C:\Users\ShapTick\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.csproj.CopyComplete
+C:\Users\ShapTick\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.exe
+C:\Users\ShapTick\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.pdb
+C:\Users\Barış MIZRAKLI\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\GSMTurkey TWRP DownLoader.exe.config
+C:\Users\Barış MIZRAKLI\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\GSMTurkey TWRP DownLoader.exe
+C:\Users\Barış MIZRAKLI\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\bin\Debug\GSMTurkey TWRP DownLoader.pdb
+C:\Users\Barış MIZRAKLI\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey_TWRP_DownLoader.Form1.resources
+C:\Users\Barış MIZRAKLI\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey_TWRP_DownLoader.Properties.Resources.resources
+C:\Users\Barış MIZRAKLI\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.csproj.GenerateResource.cache
+C:\Users\Barış MIZRAKLI\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.csproj.CoreCompileInputs.cache
+C:\Users\Barış MIZRAKLI\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.csproj.CopyComplete
+C:\Users\Barış MIZRAKLI\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.exe
+C:\Users\Barış MIZRAKLI\Desktop\Aktif Proje\GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.pdb
