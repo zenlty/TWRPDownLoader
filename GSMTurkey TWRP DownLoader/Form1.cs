@@ -358,6 +358,18 @@ namespace GSMTurkey_TWRP_DownLoader
          
         }
 
+        private void combo_Sunucu_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (combo_Sunucu.SelectedItem.ToString() == "TeamWin")
+            {
+                label4.Text = "Statü : OFFICIAL";
+            }
+            else
+            {
+                label4.Text = "Statü : Derleme-Port";
+            }
+        }
+
         private void Btn_Download_Click_1(object sender, EventArgs e)
         {
             try

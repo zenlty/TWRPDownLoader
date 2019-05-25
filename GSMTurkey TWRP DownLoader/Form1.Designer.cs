@@ -53,6 +53,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.progressBar = new Bunifu.Framework.UI.BunifuProgressBar();
             this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.kryptonDockableNavigator1)).BeginInit();
             this.kryptonDockableNavigator1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.page_Qualcomm)).BeginInit();
@@ -105,7 +106,6 @@
             this.kryptonDockableNavigator1.Header.HeaderStyleBar = ComponentFactory.Krypton.Toolkit.HeaderStyle.Custom1;
             this.kryptonDockableNavigator1.Location = new System.Drawing.Point(1, 53);
             this.kryptonDockableNavigator1.Name = "kryptonDockableNavigator1";
-            this.kryptonDockableNavigator1.NavigatorMode = ComponentFactory.Krypton.Navigator.NavigatorMode.BarRibbonTabGroup;
             this.kryptonDockableNavigator1.PageBackStyle = ComponentFactory.Krypton.Toolkit.PaletteBackStyle.TabDock;
             this.kryptonDockableNavigator1.Pages.AddRange(new ComponentFactory.Krypton.Navigator.KryptonPage[] {
             this.page_Qualcomm,
@@ -129,7 +129,7 @@
             this.page_Qualcomm.LastVisibleSet = true;
             this.page_Qualcomm.MinimumSize = new System.Drawing.Size(50, 50);
             this.page_Qualcomm.Name = "page_Qualcomm";
-            this.page_Qualcomm.Size = new System.Drawing.Size(593, 123);
+            this.page_Qualcomm.Size = new System.Drawing.Size(593, 125);
             this.page_Qualcomm.Text = "TWRP";
             this.page_Qualcomm.ToolTipImageTransparentColor = System.Drawing.Color.FromArgb(((int)(((byte)(126)))), ((int)(((byte)(144)))), ((int)(((byte)(164)))));
             this.page_Qualcomm.ToolTipTitle = "Page ToolTip";
@@ -145,6 +145,7 @@
             this.combo_Sunucu.Name = "combo_Sunucu";
             this.combo_Sunucu.Size = new System.Drawing.Size(580, 21);
             this.combo_Sunucu.TabIndex = 21;
+            this.combo_Sunucu.SelectedIndexChanged += new System.EventHandler(this.combo_Sunucu_SelectedIndexChanged);
             // 
             // lbl_Sunucu
             // 
@@ -207,7 +208,7 @@
             this.kryptonPage6.LastVisibleSet = true;
             this.kryptonPage6.MinimumSize = new System.Drawing.Size(50, 50);
             this.kryptonPage6.Name = "kryptonPage6";
-            this.kryptonPage6.Size = new System.Drawing.Size(593, 123);
+            this.kryptonPage6.Size = new System.Drawing.Size(593, 125);
             this.kryptonPage6.Text = "Update DB";
             this.kryptonPage6.ToolTipTitle = "Page ToolTip";
             this.kryptonPage6.UniqueName = "7F1C1E99EC734E7AAC838117E55C8F16";
@@ -352,7 +353,7 @@
             this.btn_Download.IconVisible = true;
             this.btn_Download.IconZoom = 90D;
             this.btn_Download.IsTab = false;
-            this.btn_Download.Location = new System.Drawing.Point(3, 235);
+            this.btn_Download.Location = new System.Drawing.Point(4, 249);
             this.btn_Download.Name = "btn_Download";
             this.btn_Download.Normalcolor = System.Drawing.Color.FromArgb(((int)(((byte)(194)))), ((int)(((byte)(140)))), ((int)(((byte)(50)))));
             this.btn_Download.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(79)))), ((int)(((byte)(186)))), ((int)(((byte)(111)))));
@@ -370,7 +371,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.ForeColor = System.Drawing.Color.DarkGreen;
-            this.label1.Location = new System.Drawing.Point(121, 205);
+            this.label1.Location = new System.Drawing.Point(27, 205);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(145, 13);
             this.label1.TabIndex = 20;
@@ -380,7 +381,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.ForeColor = System.Drawing.Color.DarkGreen;
-            this.label2.Location = new System.Drawing.Point(348, 205);
+            this.label2.Location = new System.Drawing.Point(249, 205);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(122, 13);
             this.label2.TabIndex = 21;
@@ -390,11 +391,11 @@
             // 
             this.progressBar.BackColor = System.Drawing.Color.Silver;
             this.progressBar.BorderRadius = 5;
-            this.progressBar.Location = new System.Drawing.Point(3, 221);
+            this.progressBar.Location = new System.Drawing.Point(3, 224);
             this.progressBar.MaximumValue = 100;
             this.progressBar.Name = "progressBar";
             this.progressBar.ProgressColor = System.Drawing.Color.FromArgb(((int)(((byte)(79)))), ((int)(((byte)(186)))), ((int)(((byte)(111)))));
-            this.progressBar.Size = new System.Drawing.Size(592, 10);
+            this.progressBar.Size = new System.Drawing.Size(592, 22);
             this.progressBar.TabIndex = 22;
             this.progressBar.Value = 10;
             // 
@@ -408,12 +409,23 @@
             this.label3.TabIndex = 23;
             this.label3.Text = "Barış MIZRAKLI";
             // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.ForeColor = System.Drawing.Color.DarkGreen;
+            this.label4.Location = new System.Drawing.Point(455, 205);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(84, 13);
+            this.label4.TabIndex = 24;
+            this.label4.Text = "Statü : Bilinmiyor";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(213)))), ((int)(((byte)(218)))), ((int)(((byte)(223)))));
-            this.ClientSize = new System.Drawing.Size(599, 259);
+            this.ClientSize = new System.Drawing.Size(599, 273);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.progressBar);
             this.Controls.Add(this.label2);
@@ -473,6 +485,7 @@
         private Bunifu.Framework.UI.BunifuFlatButton bunifuFlatButton2;
         private Bunifu.Framework.UI.BunifuFlatButton bunifuFlatButton1;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
     }
 }
 
