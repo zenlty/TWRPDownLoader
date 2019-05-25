@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.28803.352
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSMTurkey TWRP DownLoader", "GSMTurkey TWRP DownLoader\GSMTurkey TWRP DownLoader.csproj", "{37135417-14E7-4CC1-B55F-58E025A7777C}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GSMTurkey TWRP DownLoader Setup", "GSMTurkey TWRP DownLoader Setup\GSMTurkey TWRP DownLoader Setup.vdproj", "{F986951D-5CDC-4C21-9B3D-75D9155F3E9A}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GSMTurkey TWRP DownLoader Setup", "GSMTurkey TWRP DownLoader Setup\GSMTurkey TWRP DownLoader Setup.vdproj", "{15BB5978-C5CE-4F55-9BF6-F2A23E1C7631}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,8 +17,8 @@ Global
 		{37135417-14E7-4CC1-B55F-58E025A7777C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37135417-14E7-4CC1-B55F-58E025A7777C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37135417-14E7-4CC1-B55F-58E025A7777C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F986951D-5CDC-4C21-9B3D-75D9155F3E9A}.Debug|Any CPU.ActiveCfg = Debug
-		{F986951D-5CDC-4C21-9B3D-75D9155F3E9A}.Release|Any CPU.ActiveCfg = Release
+		{15BB5978-C5CE-4F55-9BF6-F2A23E1C7631}.Debug|Any CPU.ActiveCfg = Debug
+		{15BB5978-C5CE-4F55-9BF6-F2A23E1C7631}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

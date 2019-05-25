@@ -80,3 +80,14 @@ D:\Github Source\TWRPDownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TW
 D:\Github Source\TWRPDownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.csproj.CopyComplete
 D:\Github Source\TWRPDownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.exe
 D:\Github Source\TWRPDownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.pdb
+C:\Users\Azat Barış MIZRAKLI\Documents\GitHub\TWRPDownLoader\GSMTurkey TWRP DownLoader\bin\Debug\GSMTurkey TWRP DownLoader.exe.config
+C:\Users\Azat Barış MIZRAKLI\Documents\GitHub\TWRPDownLoader\GSMTurkey TWRP DownLoader\bin\Debug\GSMTurkey TWRP DownLoader.exe
+C:\Users\Azat Barış MIZRAKLI\Documents\GitHub\TWRPDownLoader\GSMTurkey TWRP DownLoader\bin\Debug\GSMTurkey TWRP DownLoader.pdb
+C:\Users\Azat Barış MIZRAKLI\Documents\GitHub\TWRPDownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey_TWRP_DownLoader.Form1.resources
+C:\Users\Azat Barış MIZRAKLI\Documents\GitHub\TWRPDownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey_TWRP_DownLoader.Properties.Resources.resources
+C:\Users\Azat Barış MIZRAKLI\Documents\GitHub\TWRPDownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.csproj.GenerateResource.cache
+C:\Users\Azat Barış MIZRAKLI\Documents\GitHub\TWRPDownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.csproj.CoreCompileInputs.cache
+C:\Users\Azat Barış MIZRAKLI\Documents\GitHub\TWRPDownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.csproj.CopyComplete
+C:\Users\Azat Barış MIZRAKLI\Documents\GitHub\TWRPDownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.exe
+C:\Users\Azat Barış MIZRAKLI\Documents\GitHub\TWRPDownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.pdb
+C:\Users\Azat Barış MIZRAKLI\Documents\GitHub\TWRPDownLoader\GSMTurkey TWRP DownLoader\obj\Debug\GSMTurkey TWRP DownLoader.csprojAssemblyReference.cache
